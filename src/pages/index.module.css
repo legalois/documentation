@@ -4,7 +4,7 @@
  */
 
 .heroBanner {
-  height: calc(100vh - 3.25rem);
+  height: 100%;
   padding: 4rem 0;
   text-align: left;
   position: relative;
@@ -15,13 +15,16 @@
 
 
 .ouient {
-  font-size: 8em;
+  font-size: 4em;
   color: #fff;
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
+  }
+  .ouient {
+    font-size: 2em;
   }
 }
 
