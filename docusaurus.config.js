@@ -48,14 +48,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/legalois/documentation',
+            'https://github.com/legalois/documentation/tree/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/legalois/documentation',
+            'https://github.com/legalois/documentation/tree/main',
         },
         theme: {
           customCss: './src/css/custom.css',
