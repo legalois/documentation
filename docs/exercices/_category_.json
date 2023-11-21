@@ -1,0 +1,8 @@
+{
+  "label": "Exercice du jour",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Vous trouverez ici les exercices publiés ici chaque jour."
+  }
+}
